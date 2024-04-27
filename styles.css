@@ -14,3 +14,7 @@ body {
     margin: 25px;
     border-radius: 25px;
 }
+
+.error-container {
+    margin: 40px;
+}
